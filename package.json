@@ -2,8 +2,8 @@
   "name": "@apino3/github-pkg-demo",
   "repository": {
     "url" : "git://github.com/apino3/github-pkg-demo.git"
-  }
-  "version": "1.0.0",
+  },
+  "version" : "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
